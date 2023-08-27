@@ -5,5 +5,5 @@
 - 🌱  Learning and teaching
 - 💻  Studied computer science (focus: cryptography, machine learning, theoretical computer science)
 - 🌍  Working mostly remotely since 2015
-- 🛠  Taking on new projects from June 2022
+- 🛠  Currently not taking on new projects
 - ✉️  Contact me on [my website](https://www.alainhorner.ch/)
